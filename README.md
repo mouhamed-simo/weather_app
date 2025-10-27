@@ -18,3 +18,4 @@ Automatic location detection</p>
 
 ![image_alt](https://github.com/mouhamed-simo/weather_app/blob/4140b857326b7acdb27ba911983ea9c0b7755800/Screenshot%202025-10-27%20163137.png)
 
+
